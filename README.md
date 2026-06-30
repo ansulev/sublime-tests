@@ -1,4 +1,4 @@
-# sublime-keygen
+# sublime
 
 **Pre-built binaries** can be downloaded from [Actions](https://github.com/Antibioticss/sublime-keygen/actions) or [Releases](https://github.com/Antibioticss/sublime-keygen/releases)
 
