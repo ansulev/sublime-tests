@@ -1,9 +1,5 @@
 # sublime-keygen
 
-**Cross-platform KEYGEN** for Sublime products, including *Sublime Text* and *Sublime Merge*
-
-Latest Stable and Dev builds for all platforms are supported
-
 **Pre-built binaries** can be downloaded from [Actions](https://github.com/Antibioticss/sublime-keygen/actions) or [Releases](https://github.com/Antibioticss/sublime-keygen/releases)
 
 ## Build
